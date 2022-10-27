@@ -1,5 +1,12 @@
 #include <stdio.h>
-
+/**
+ *main - to print integer
+ *
+ *description: code to print integers
+ *
+ *
+ *Return: void
+ */
 int main(void)
 {
 int n;
